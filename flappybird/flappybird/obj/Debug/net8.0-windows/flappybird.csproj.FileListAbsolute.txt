@@ -1,0 +1,17 @@
+C:\Users\Efe Erkan\Desktop\C#\flappybird\flappybird\bin\Debug\net8.0-windows\flappybird.exe
+C:\Users\Efe Erkan\Desktop\C#\flappybird\flappybird\bin\Debug\net8.0-windows\flappybird.deps.json
+C:\Users\Efe Erkan\Desktop\C#\flappybird\flappybird\bin\Debug\net8.0-windows\flappybird.runtimeconfig.json
+C:\Users\Efe Erkan\Desktop\C#\flappybird\flappybird\bin\Debug\net8.0-windows\flappybird.dll
+C:\Users\Efe Erkan\Desktop\C#\flappybird\flappybird\bin\Debug\net8.0-windows\flappybird.pdb
+C:\Users\Efe Erkan\Desktop\C#\flappybird\flappybird\obj\Debug\net8.0-windows\flappybird.Form1.resources
+C:\Users\Efe Erkan\Desktop\C#\flappybird\flappybird\obj\Debug\net8.0-windows\flappybird.Properties.Resources.resources
+C:\Users\Efe Erkan\Desktop\C#\flappybird\flappybird\obj\Debug\net8.0-windows\flappybird.csproj.GenerateResource.cache
+C:\Users\Efe Erkan\Desktop\C#\flappybird\flappybird\obj\Debug\net8.0-windows\flappybird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efe Erkan\Desktop\C#\flappybird\flappybird\obj\Debug\net8.0-windows\flappybird.AssemblyInfoInputs.cache
+C:\Users\Efe Erkan\Desktop\C#\flappybird\flappybird\obj\Debug\net8.0-windows\flappybird.AssemblyInfo.cs
+C:\Users\Efe Erkan\Desktop\C#\flappybird\flappybird\obj\Debug\net8.0-windows\flappybird.csproj.CoreCompileInputs.cache
+C:\Users\Efe Erkan\Desktop\C#\flappybird\flappybird\obj\Debug\net8.0-windows\flappybird.dll
+C:\Users\Efe Erkan\Desktop\C#\flappybird\flappybird\obj\Debug\net8.0-windows\refint\flappybird.dll
+C:\Users\Efe Erkan\Desktop\C#\flappybird\flappybird\obj\Debug\net8.0-windows\flappybird.pdb
+C:\Users\Efe Erkan\Desktop\C#\flappybird\flappybird\obj\Debug\net8.0-windows\flappybird.genruntimeconfig.cache
+C:\Users\Efe Erkan\Desktop\C#\flappybird\flappybird\obj\Debug\net8.0-windows\ref\flappybird.dll
